@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Nzimnevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nzimnevich&repo=github-readme-stats&show_icons=true&theme=radical)
-]
+
